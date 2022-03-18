@@ -1,5 +1,6 @@
 {
   "name": "live-covid-tracker",
+   "homepage": "http://Sdalpha.github.io/CovidTracker_ReactJs",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
