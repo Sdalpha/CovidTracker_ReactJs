@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CovidTracker_ReactJs/static/css/main.c0c48b3d.css",
+    "main.js": "/CovidTracker_ReactJs/static/js/main.95847cdf.js",
+    "static/js/787.3d42e79c.chunk.js": "/CovidTracker_ReactJs/static/js/787.3d42e79c.chunk.js",
+    "index.html": "/CovidTracker_ReactJs/index.html",
+    "main.c0c48b3d.css.map": "/CovidTracker_ReactJs/static/css/main.c0c48b3d.css.map",
+    "main.95847cdf.js.map": "/CovidTracker_ReactJs/static/js/main.95847cdf.js.map",
+    "787.3d42e79c.chunk.js.map": "/CovidTracker_ReactJs/static/js/787.3d42e79c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0c48b3d.css",
+    "static/js/main.95847cdf.js"
+  ]
+}
