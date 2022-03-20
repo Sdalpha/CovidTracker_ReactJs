@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/CovidTracker_ReactJs/static/css/main.1b1dc470.css",
-    "main.js": "/CovidTracker_ReactJs/static/js/main.029ea037.js",
+    "main.css": "/CovidTracker_ReactJs/static/css/main.0e88bbe9.css",
+    "main.js": "/CovidTracker_ReactJs/static/js/main.26d0b4b8.js",
     "static/js/787.3d42e79c.chunk.js": "/CovidTracker_ReactJs/static/js/787.3d42e79c.chunk.js",
     "index.html": "/CovidTracker_ReactJs/index.html",
-    "main.1b1dc470.css.map": "/CovidTracker_ReactJs/static/css/main.1b1dc470.css.map",
-    "main.029ea037.js.map": "/CovidTracker_ReactJs/static/js/main.029ea037.js.map",
+    "main.0e88bbe9.css.map": "/CovidTracker_ReactJs/static/css/main.0e88bbe9.css.map",
+    "main.26d0b4b8.js.map": "/CovidTracker_ReactJs/static/js/main.26d0b4b8.js.map",
     "787.3d42e79c.chunk.js.map": "/CovidTracker_ReactJs/static/js/787.3d42e79c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b1dc470.css",
-    "static/js/main.029ea037.js"
+    "static/css/main.0e88bbe9.css",
+    "static/js/main.26d0b4b8.js"
   ]
 }
